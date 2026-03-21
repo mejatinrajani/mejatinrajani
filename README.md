@@ -24,13 +24,13 @@
 Name        : Jatin Rajani
 Role        : Solutions Architect
 Focus Areas :
-  - Cloud-Native Architecture (AWS · Azure · GCP)
-  - Full-Stack Engineering (React · Node · Next.js)
-  - Applied Machine Intelligence (PyTorch · TensorFlow)
-  - DevOps & Platform Engineering (Docker · K8s · CI/CD)
+  - Cloud-Native Architecture (AWS · Azure · GCP · DigitalOcean)
+  - Full-Stack Engineering (React · Node · Next.js · django · Flask · FastAPI)
+  - Applied Machine Intelligence (Basic Machine Learning · Deep Learning · RAG Pipelines · Agentic Workflow · NLP)
+  - DevOps & Platform Engineering (Docker · CI/CD)
   - Distributed Systems & Real-time Infra (Redis · Kafka)
 Superpower  : Bridging complexity into elegant, scalable systems
-Status      : Building the future, one commit at a time 🚀
+Status      : Building the future, one commit at a time 
 ```
 
 > *"Good architecture is invisible — it simply works, scales, and delights."*
