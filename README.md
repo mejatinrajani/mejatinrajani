@@ -1,7 +1,7 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=500&duration=2000&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=160&lines=+Architecting+Cloud-Native+Software+Ecosystems;+Building+AI-Powered+Intelligent+Systems;+Bridging+Backend+%2B+Frontend+%2B+Machine+Intelligence;+Turning+Complex+Ideas+into+Scalable+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=500&duration=2000&color=00D4FF&repeat=false&center=true&vCenter=true&multiline=true&width=900&height=160&lines=+Architecting+Cloud-Native+Software+Ecosystems;+Building+AI-Powered+Intelligent+Systems;+Bridging+Backend+%2B+Frontend+%2B+Machine+Intelligence;+Turning+Complex+Ideas+into+Scalable+Reality)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://instagram.com/mejatinrajani"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000"/></a>&nbsp;
