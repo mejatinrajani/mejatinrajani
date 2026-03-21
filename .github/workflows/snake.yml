@@ -1,6 +1,9 @@
 name: 🐍 Contribution Snake
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # Runs at 00:00 and 12:00 UTC every day — keeps the animation fresh!
     - cron: "0 0 * * *"
