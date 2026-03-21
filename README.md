@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Jatin%20Rajani&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Solutions%20Architect%20%7C%20Cloud%20Native%20%7C%20AI%20%26%20Systems%20Builder&descSize=16&descAlignY=55" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Architecting+Cloud-Native+Ecosystems;🤖+Building+AI-Powered+Intelligent+Systems;⚡+Bridging+Backend+%2B+Frontend+%2B+ML;🌐+Turning+Complex+Ideas+into+Scalable+Reality)](https://git.io/typing-svg)
 
