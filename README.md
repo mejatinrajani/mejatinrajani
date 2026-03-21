@@ -20,45 +20,18 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
 
-## Who Am I?
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 👨‍💻 Jatin Rajani  
-💼 **Solutions Architect**  
-
----
-
-### 🚀 About Me  
-Warm greetings! 👋  
-I’m Jatin Rajani, a Solutions Architect specializing in designing and building **cloud-native, high-scale software ecosystems**.  
-
-I create resilient infrastructures that bridge the gap between:  
-- Complex backend logic  
-- Intuitive and seamless frontend experiences  
-- Applied machine intelligence  
-- Automation-driven systems  
-
----
-
-### ⚡ Superpower  
-Bridging complexity into elegant, scalable systems  
-
----
-
-> *"Good architecture is invisible — it simply works, scales, and delights."*
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-
-</td>
-</tr>
-</table>
+```yaml
+Name        : Jatin Rajani
+Role        : Solutions Architect
+Focus Areas :
+  - Cloud-Native Architecture (AWS · Azure · GCP)
+  - Full-Stack Engineering (React · Node · Next.js)
+  - Applied Machine Intelligence (PyTorch · TensorFlow)
+  - DevOps & Platform Engineering (Docker · K8s · CI/CD)
+  - Distributed Systems & Real-time Infra (Redis · Kafka)
+Superpower  : Bridging complexity into elegant, scalable systems
+Status      : Building the future, one commit at a time 🚀
+```
 
 > *"Good architecture is invisible — it simply works, scales, and delights."*
 
