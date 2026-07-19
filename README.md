@@ -13,26 +13,39 @@
 
 ---
 
-```text
-               _,aa@@@@@@@@@@aa,_               mejatinrajani@github
-            ,a@@@@@@@@@@@@@@@@@@@@a,            --------------------
-          ,@@@@@@@@@@@@@@@@@@@@@@@@@@,          OS: Windows 11, Linux
-         ,@@@@@@@@/          \@@@@@@@@,         Host: Full-Stack & ML Workstation
-         @@@@@@@/              \@@@@@@@         Kernel: B.Tech CS @ GLA University
-         @@@@@@/    _      _    \@@@@@@         IDE: VS Code, Jupyter
-         @@@@@@|   -O------O-   |@@@@@@         
-         @@@@@@|       __       |@@@@@@         Languages.Programming: Java, Python, TypeScript, JS
-         '@@@@@|      |__|      |@@@@@'         Languages.Computer: HTML, CSS, YAML, LaTeX, Bash
-          '@@@@@\    '----'    /@@@@@'          Languages.Spoken: English, Hindi
-            '@@@@.  .------.  .@@@@'            
-               @@@  '------'  @@@               Stack.Core: MERN, Django, PyTorch
-           _.-@@@@|          |@@@@-._           Stack.Cloud: AWS, GCP, Azure, Docker
-        .-'   @@@@\          /@@@@   '-.        Hobbies.Tech: Competitive Programming, System Design, ML
-      .'       @@@@\        /@@@@       '.      Hobbies.Other: Workflow Automation (n8n)
-     /          @@@@\      /@@@@          \     
-    |           @@@@@\    /@@@@@           |    Contact.Email: mejatinrajani.tech@gmail.com
-    |          /@@@@@@\  /@@@@@@\          |    Contact.LinkedIn: in/mejatinrajani
-    |         /@@@@@@@@\/@@@@@@@@\         |
+<table>
+  <tr>
+    <td valign="top" width="40%">
+      <!-- Make sure ascii.jpg is uploaded to your repo! -->
+      <img src="./ascii.jpg" width="100%" alt="ASCII Profile Picture" />
+    </td>
+    <td valign="top" width="60%">
+    <pre>
+mejatinrajani@github
+--------------------
+OS      : Windows 11, Linux
+Host    : Full-Stack & ML Workstation
+Kernel  : B.Tech CS @ GLA University
+IDE     : VS Code, Jupyter
+
+Languages.Programming : Java, Python, TypeScript, JS
+Languages.Computer    : HTML, CSS, YAML, LaTeX, Bash
+Languages.Spoken      : English, Hindi
+
+Stack.Core   : MERN, Django, PyTorch
+Stack.Cloud  : AWS, GCP, Azure, Docker
+Hobbies.Tech : Competitive Programming, System Design, ML
+Hobbies.Other: Workflow Automation (n8n)
+
+Contact.Email    : mejatinrajani.tech@gmail.com
+Contact.LinkedIn : in/mejatinrajani
+    </pre>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Tech Arsenal
 
 <div align="center">
