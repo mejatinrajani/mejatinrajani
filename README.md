@@ -17,7 +17,7 @@
   <tr>
     <td valign="top" width="40%">
       <!-- Make sure ascii.jpg is uploaded to your repo! -->
-      <img src="./ascii.jpg" width="100%" alt="ASCII Profile Picture" />
+      <img src="./ascii.png" width="100%" alt="ASCII Profile Picture" />
     </td>
     <td valign="top" width="60%">
     <pre>
