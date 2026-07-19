@@ -1,6 +1,5 @@
 <div align="center">
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=500&duration=2000&color=00D4FF&repeat=false&center=true&vCenter=true&multiline=true&width=900&height=160&lines=+Architecting+Cloud-Native+Software+Ecosystems;+Building+AI-Powered+Intelligent+Systems;+Bridging+Backend+%2B+Frontend+%2B+Machine+Intelligence;+Turning+Complex+Ideas+into+Scalable+Reality)](https://git.io/typing-svg)
 
 <p align="center">
@@ -12,33 +11,28 @@
 
 </div>
 
-
-
 ---
 
-## Who Am I?
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
-
-```yaml
-Name        : Jatin Rajani
-Role        : Solutions Architect
-Focus Areas :
-  - Cloud-Native Architecture (AWS · Azure · GCP · DigitalOcean)
-  - Full-Stack Engineering (React · Node · Next.js · django · Flask · FastAPI)
-  - Applied Machine Intelligence (Basic Machine Learning · Deep Learning · RAG Pipelines · Agentic Workflow · NLP)
-  - DevOps & Platform Engineering (Docker · CI/CD)
-  - Distributed Systems & Real-time Infra (Redis · Kafka)
-Superpower  : Bridging complexity into elegant, scalable systems
-Status      : Building the future, one commit at a time 
-```
-
-> *"Good architecture is invisible — it simply works, scales, and delights."*
-
-<br clear="right"/>
-
----
-
+```text
+               _,aa@@@@@@@@@@aa,_               mejatinrajani@github
+            ,a@@@@@@@@@@@@@@@@@@@@a,            --------------------
+          ,@@@@@@@@@@@@@@@@@@@@@@@@@@,          OS: Windows 11, Linux
+         ,@@@@@@@@/          \@@@@@@@@,         Host: Full-Stack & ML Workstation
+         @@@@@@@/              \@@@@@@@         Kernel: B.Tech CS @ GLA University
+         @@@@@@/    _      _    \@@@@@@         IDE: VS Code, Jupyter
+         @@@@@@|   -O------O-   |@@@@@@         
+         @@@@@@|       __       |@@@@@@         Languages.Programming: Java, Python, TypeScript, JS
+         '@@@@@|      |__|      |@@@@@'         Languages.Computer: HTML, CSS, YAML, LaTeX, Bash
+          '@@@@@\    '----'    /@@@@@'          Languages.Spoken: English, Hindi
+            '@@@@.  .------.  .@@@@'            
+               @@@  '------'  @@@               Stack.Core: MERN, Django, PyTorch
+           _.-@@@@|          |@@@@-._           Stack.Cloud: AWS, GCP, Azure, Docker
+        .-'   @@@@\          /@@@@   '-.        Hobbies.Tech: Competitive Programming, System Design, ML
+      .'       @@@@\        /@@@@       '.      Hobbies.Other: Workflow Automation (n8n)
+     /          @@@@\      /@@@@          \     
+    |           @@@@@\    /@@@@@           |    Contact.Email: mejatinrajani.tech@gmail.com
+    |          /@@@@@@\  /@@@@@@\          |    Contact.LinkedIn: in/mejatinrajani
+    |         /@@@@@@@@\/@@@@@@@@\         |
 ## Tech Arsenal
 
 <div align="center">
