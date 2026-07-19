@@ -1,80 +1,41 @@
 <div align="center">
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=500&duration=2000&color=00D4FF&repeat=false&center=true&vCenter=true&multiline=true&width=900&height=160&lines=+Architecting+Cloud-Native+Software+Ecosystems;+Building+AI-Powered+Intelligent+Systems;+Bridging+Backend+%2B+Frontend+%2B+Machine+Intelligence;+Turning+Complex+Ideas+into+Scalable+Reality)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://instagram.com/mejatinrajani"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000"/></a>&nbsp;
-  <a href="https://linkedin.com/in/mejatinrajani"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000"/></a>&nbsp;
-  <a href="mailto:mejatinrajani.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000"/></a>&nbsp;
-  <a href="https://github.com/mejatinrajani"><img src="https://komarev.com/ghpvc/?username=mejatinrajani&color=blue&style=for-the-badge&label=Profile+Views"/></a>
+  <a href="https://instagram.com/mejatinrajani"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000"/></a>&nbsp;
+  <a href="https://linkedin.com/in/mejatinrajani"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000"/></a>&nbsp;
+  <a href="mailto:mejatinrajani.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000"/></a>&nbsp;
+  <a href="https://github.com/mejatinrajani"><img src="https://komarev.com/ghpvc/?username=mejatinrajani&color=blue&style=for-the-badge&label=Profile+Views"/></a>
 </p>
 
 </div>
 
----
 
-<table>
-  <tr>
-    <td valign="top" width="40%">
-      <!-- Make sure ascii.jpg is uploaded to your repo! -->
-      <img src="./ascii.png" width="100%" alt="ASCII Profile Picture" />
-    </td>
-    <td valign="top" width="60%">
-    <pre>
-github_system@introduce:~$ whois mejatinrajani
-----------------------------------------------
-Name       : Jatin Rajani[cite: 1, 2]
-Role       : Cloud-Native Full Stack & Applied AI Engineer[cite: 1, 2]
-Education  : B.Tech in Computer Science, GLA University, Mathura[cite: 1, 2]
-
-Bio        : GitHub introduces Jatin, a Cloud-Native Full Stack and Applied 
-             AI Developer[cite: 1, 2]. He possesses hands-on internship 
-             experience building production-grade systems[cite: 1, 2]. His 
-             expertise spans frontend experiences, backend APIs, multimodal 
-             deep learning, and Advanced RAG pipelines[cite: 1, 2]. 
-
-Experience : 
-             • Software Engineering Intern @ ShunyaTech: Engineered a Hybrid 
-               Graph and Vector RAG chatbot achieving ~95% retrieval accuracy 
-               and ~35ms latency[cite: 1, 2].
-             • Full Stack Developer Intern @ MultiForgeX: Optimized overall 
-               platform performance by ~30% and crafted an immersive 3D 
-               website from scratch[cite: 1, 2].
-
-Contact    : mejatinrajani.tech@gmail.com[cite: 1, 2]
-    </pre>
-    </td>
-  </tr>
-</table>
 
 ---
 
-## 🚀 Featured Engineering Projects
+## Who Am I?
 
-**[NexusMind](https://github.com/mejatinrajani)** 
-> *Enterprise Agentic RAG Platform*[cite: 1, 2]
-* GitHub introduces NexusMind, a multi-tenant Enterprise Hybrid RAG platform that enables organizations to build custom AI assistants[cite: 1, 2].
-* The system is engineered using vector databases, knowledge graphs, multimodal document ingestion, LangGraph orchestration, intelligent retrieval routing, and support for multiple LLM providers[cite: 1, 2].
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
 
-**[Bastian](https://github.com/mejatinrajani)**
-> *Bottom AI Concierge*
-* An advanced Hybrid RAG system built to deliver highly accurate and low-latency responses. 
-* It utilizes BM25 sparse retrieval, dense vector search, hierarchical chunking, intent detection, query rewriting, cross-encoder reranking, and optimized retrieval pipelines.
+```yaml
+Name        : Jatin Rajani
+Role        : Solutions Architect
+Focus Areas :
+  - Cloud-Native Architecture (AWS · Azure · GCP · DigitalOcean)
+  - Full-Stack Engineering (React · Node · Next.js · django · Flask · FastAPI)
+  - Applied Machine Intelligence (Basic Machine Learning · Deep Learning · RAG Pipelines · Agentic Workflow · NLP)
+  - DevOps & Platform Engineering (Docker · CI/CD)
+  - Distributed Systems & Real-time Infra (Redis · Kafka)
+Superpower  : Bridging complexity into elegant, scalable systems
+Status      : Building the future, one commit at a time 
+```
 
-**[MHPCD](https://github.com/mejatinrajani)**
-> *Multimodal Hinglish Predatory Comment Detector*[cite: 2]
-* A multimodal AI moderation system combining Transformer-based NLP models and computer vision[cite: 2].
-* It is designed to detect abusive and predatory content from both Hinglish text and images utilizing cross-modal attention[cite: 2].
+> *"Good architecture is invisible — it simply works, scales, and delights."*
 
-**[Chronexis](https://github.com/mejatinrajani)**
-> *Automated Timetable Generation System*[cite: 1, 2]
-* A constraint-based automated timetable generation platform capable of generating conflict-free institutional schedules[cite: 1, 2].
-* The architecture leverages Google OR-Tools and features real-time conflict detection, drag-and-drop editing, and Excel integration[cite: 1, 2].
-
-**[Astika](https://github.com/mejatinrajani)**
-> *Vedic Astrology Intelligence Platform*[cite: 1]
-* A full-stack Vedic Intelligence Platform powered by 50+ deterministic computational engines[cite: 1].
-* It delivers high-precision astrological calculations, analytics, and integrates an intent-aware AI assistant for natural language interactions[cite: 1].
+<br clear="right"/>
 
 ---
 
@@ -173,9 +134,9 @@ Contact    : mejatinrajani.tech@gmail.com[cite: 1, 2]
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mejatinrajani/mejatinrajani/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mejatinrajani/mejatinrajani/blob/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://github.com/mejatinrajani/mejatinrajani/blob/output/github-contribution-grid-snake.svg" width="90%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mejatinrajani/mejatinrajani/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mejatinrajani/mejatinrajani/blob/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://github.com/mejatinrajani/mejatinrajani/blob/output/github-contribution-grid-snake.svg" width="90%"/>
 </picture>
 
 </div>
@@ -201,3 +162,5 @@ If you find value in what I build, consider fueling the journey ☕
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
+
+and this is the code, so edit the code accordingly
